@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\MoverFondo.cs">
+    <Files>
+      <File FileName="Assets\Script\MoverPlayer.cs" Line="54" Column="77" />
+      <File FileName="Assets\Script\bullet.cs" Line="17" Column="55" />
+      <File FileName="Assets\Script\SmoothCamera2D.cs" Line="22" Column="84" />
+      <File FileName="Assets\Script\MoverFondo.cs" Line="25" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
